@@ -9,7 +9,7 @@
     <version>2.5.2</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>edu.cnm.service</groupId>
+  <groupId>edu.cnm.deepdive</groupId>
   <artifactId>security-demo-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>security-demo-service</name>
